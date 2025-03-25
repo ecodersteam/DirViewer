@@ -26,5 +26,5 @@ This project is open-source and available under the MIT License.
 
 ## Other Solutions
 If you still have trouble using the application,
-- Check the wiki page.
+- Check the [wiki](https://github.com/ecodersteam/DirViewer/wiki) page.
 - Open a brand new issue in the [Issues](https://github.com/ecodersteam/DirViewer/issues) tab.
