@@ -23,3 +23,8 @@ DirViewer is a simple command-line tool that allows users to navigate directorie
 
 ## License
 This project is open-source and available under the MIT License.
+
+## Other Solutions
+If you still have trouble using the application,
+- Check the wiki page.
+- Open a brand new issue in the [Issues] () tab.
